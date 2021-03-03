@@ -22,6 +22,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&" alt="akshhpatil" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?akshhpatil=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?akshhpatil=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
