@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Machine learning**
 
-- 📫 How to reach me **coolakshay566@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/akshaypatil30/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&locale=en" alt="akshhpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&" alt="akshhpatil" /></p>
-
-
-
