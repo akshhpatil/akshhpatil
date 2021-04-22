@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshhpatil&label=Profile%20views&color=0e75b6&style=flat" alt="akshhpatil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshhpatil-ma&theme=onedark)](https://github.com/akshhpatil/github-profile-trophy" alt="akshhpatil" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshhpatil" alt="akshhpatil" /></a> </p>
 
 - 🌱 I’m currently learning **Python,Machine learning**
 
@@ -12,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaypatil30/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akshaypatil30/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15429875/akshay-patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15429875/akshay-patil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaypatil30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaypatil30/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15429875/akshay-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15429875/akshay-patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&locale=en" alt="akshhpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&" alt="akshhpatil" /></p>
-
-
