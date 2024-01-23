@@ -9,7 +9,7 @@
 I'm a passionate Full Stack Developer currently exploring the realms of Python and Machine Learning.
 
 ### 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/akshaypatil30/)
+<a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank">LinkedIn</a>
 
 ### Languages and Tools
 <p align="left">
@@ -24,6 +24,9 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  </p>
 
