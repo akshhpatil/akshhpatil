@@ -9,7 +9,8 @@
 I'm a passionate Full Stack Developer currently exploring the realms of Python and Machine Learning.
 
 ### 📫 How to reach me
-<a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
 
 ### Languages and Tools
 <p align="left">
