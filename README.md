@@ -12,8 +12,8 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
 <a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ### 📫 How to reach me
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/akshaypatil30/)
 
-[![LinkedIn](https://github.com/your-username/your-repo-name/blob/main/linkedin_logo.png)](https://www.linkedin.com/in/akshaypatil30/)
 
 
 
