@@ -11,6 +11,11 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
+### 📫 How to reach me
+
+[![LinkedIn](https://github.com/your-username/your-repo-name/blob/main/linkedin_logo.png)](https://www.linkedin.com/in/akshaypatil30/)
+
+
 
 ### Languages and Tools
 <p align="left">
