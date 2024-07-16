@@ -11,19 +11,6 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
-### 📫 How to reach me
-
-### 📫 How to reach me
-
-<a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" height="50"/>
-</a>
-
-
-
-
-
-
 ### Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
