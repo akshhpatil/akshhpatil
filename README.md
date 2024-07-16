@@ -13,9 +13,12 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
 
 ### 📫 How to reach me
 
+### 📫 How to reach me
+
 <a href="https://www.linkedin.com/in/akshaypatil30/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
+
 
 
 
