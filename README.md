@@ -35,6 +35,6 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhpatil&show_icons=true&locale=en&layout=compact" alt="akshhpatil" />
 </p>
 
-//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&locale=en" alt="akshhpatil" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&" alt="akshhpatil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&locale=en" alt="akshhpatil" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&" alt="akshhpatil" /></p> -->
 
