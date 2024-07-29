@@ -31,20 +31,17 @@ I'm a passionate Full Stack Developer currently exploring the realms of Python a
  </p>
 
 ### GitHub Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhpatil&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshhpatil" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&locale=en&theme=radical" alt="akshhpatil" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&theme=radical" alt="akshhpatil" /></p>
-### 🚀 Projects
-
-- **Project Name:** A brief description of the project with a link to the repo.
-- **Another Project:** A short summary highlighting features or tech used.
 
 ### 🏆 Achievements
 
 ![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/akshhpatil?style=social)
+
 
 
