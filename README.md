@@ -76,8 +76,10 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhpatil&layout=compact&theme=radical"/>
 </p>
+
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhpatil&layout=compact&theme=radical"/>
@@ -90,10 +92,6 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 ---
 
 # 🏆 Achievements
-
-![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/akshhpatil?style=social)
-
 ![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social&cacheSeconds=60)
 ![GitHub Followers](https://img.shields.io/github/followers/akshhpatil?style=social&cacheSeconds=60)
 
