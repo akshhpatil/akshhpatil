@@ -94,6 +94,9 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 ![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/akshhpatil?style=social)
 
+![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social&cacheSeconds=60)
+![GitHub Followers](https://img.shields.io/github/followers/akshhpatil?style=social&cacheSeconds=60)
+
 ---
 
 ⭐ *"Code. Build. Scale. Repeat."*
