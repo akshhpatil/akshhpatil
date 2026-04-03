@@ -76,7 +76,7 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhpatil&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&theme=radical&count_private=true&cache_seconds=60" />
 </p>
 
 
