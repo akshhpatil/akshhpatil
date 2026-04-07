@@ -15,14 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer with 4+ years of experience** building scalable web applications and backend services.
+I am a **Full Stack Developer with 4+ years of experience** building scalable web applications and backend systems.
 
-💡 I specialize in building **modern web applications, APIs, and microservices** using JavaScript and Python-based frameworks.
+💡 I specialize in **modern web apps, APIs, and microservices** using JavaScript & Python.
 
-- 🔭 Currently working on **Node.js, Angular, FastAPI, and Strapi**
-- 🌱 Exploring **AI, Machine Learning, and Agentic AI systems**
-- ⚡ Experienced in **API orchestration, microservices, and database design**
-- 🚀 Passionate about building **scalable backend systems and clean frontend architectures**
+- 🔭 Working on **Node.js, Angular, FastAPI, Strapi**
+- 🌱 Exploring **AI, Machine Learning & Agentic AI**
+- ⚡ Skilled in **API orchestration, microservices, system design**
+- 🚀 Passionate about **scalable backend & clean UI architectures**
 
 ---
 
@@ -38,7 +38,7 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 
 # 🛠️ Tech Stack
 
-## Frontend
+## 🚀 Frontend
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -48,7 +48,7 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/>
 </p>
 
-## Backend
+## ⚙️ Backend
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -58,13 +58,13 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/>
 </p>
 
-## Databases
+## 🗄️ Databases
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-## Tools & DevOps
+## 🧰 Tools & DevOps
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -72,10 +72,26 @@ I am a **Full Stack Developer with 4+ years of experience** building scalable we
 </p>
 
 ---
-# 🏆 Achievements
-![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social&cacheSeconds=60)
-![GitHub Followers](https://img.shields.io/github/followers/akshhpatil?style=social&cacheSeconds=60)
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akshhpatil&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshhpatil&theme=radical" />
+</p>
 
 ---
 
-⭐ *"Code. Build. Scale. Repeat."*
+## 🏆 Achievements
+
+![GitHub Stars](https://img.shields.io/github/stars/akshhpatil?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/akshhpatil?style=social)
+
+---
+
+<p align="center">
+  ⭐ <strong>"Code. Build. Scale. Repeat."</strong>
+</p>
